@@ -1,6 +1,8 @@
 # ResearchProject
 
 ## Splistscreen
+
+![gif1]()
  
  Double or more splited screen render which can be used to show the player two or more scenarios at the same time,
  or to allow more than 1 player to play on the same device.
