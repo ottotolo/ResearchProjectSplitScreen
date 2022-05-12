@@ -26,8 +26,13 @@
  Dynamic splitscreen is a really exciting approach to the same old feature where the line that separates the screen, reacts to the
  position of the players. Meaning that instead of separating each player in a screen compartiment, the screen line that splits the
  cameras rotates, and moves each camera around the screen depending on the position of each player in the game.
+ However this type of feature requires a better performing algoriythm or engine.
  
- ![image3]()
+ ![image3](https://github.com/ottotolo/ResearchProjectSplitScreen/blob/main/docs/images/image-13.png)
+ 
+ ### Coding & Logic
+ 
+ 
 
  ### Links and references
  
