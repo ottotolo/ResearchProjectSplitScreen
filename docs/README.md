@@ -46,7 +46,7 @@
  The input however doesn’t give that much trouble since any entity including the screen player gets updated in the render
  for loop. Meaning that simple input detection should be able to handle the different players.
  
- ![img3]()
+ ![img3](https://github.com/ottotolo/ResearchProjectSplitScreen/blob/main/docs/images/Captura2.PNG)
  
  ### Links and references
  
