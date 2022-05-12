@@ -17,23 +17,37 @@
  
  ### Possible applications
  
- If you are still determined to add a split screen feature to your game because it is focused on co-operative gaming or it's
- just convinient to add it to your game, a really interesting way to give this old feature a fresh touch, would be by implementing
- a Dynamic SplitScreen.
+ If you are still determined to add a split screen feature to your game because it is focused on co-operative gaming
+ or it's just convinient to add it to your game, a really interesting way to give this old feature a fresh touch, would 
+ be by implementing a Dynamic SplitScreen.
  
  #### Dynamic Splitcreen
  
- Dynamic splitscreen is a really exciting approach to the same old feature where the line that separates the screen, reacts to the
- position of the players. Meaning that instead of separating each player in a screen compartiment, the screen line that splits the
- cameras rotates, and moves each camera around the screen depending on the position of each player in the game.
- However this type of feature requires a better performing algoriythm or engine.
+ Dynamic splitscreen is a really exciting approach to the same old feature where the line that separates the screen, 
+ reacts to the position of the players. Meaning that instead of separating each player in a screen compartiment, the 
+ screen line that splits the cameras rotates, and moves each camera around the screen depending on the position of 
+ each player in the game. However this type of feature requires a better performing algoriythm or engine.
  
  ![image3](https://github.com/ottotolo/ResearchProjectSplitScreen/blob/main/docs/images/image-13.png)
  
  ### Coding & Logic
  
+ First we need to create the screens needed, which will depend on the amount of players that want to participate. This 
+ screens will have to be resized accordingly to  the amount of screens rendered.
  
-
+ ![img1]()
+ 
+ In order for a split screen to work effectively we need to render all camera views in the same for loop. This will 
+ allow all screen frame rates to sync. It will prevent bugs and it will prevent the device from having to load the game 
+ multiple times.
+ 
+ ![img2]()
+ 
+ The input however doesn’t give that much trouble since any entity including the screen player gets updated in the render
+ for loop. Meaning that simple input detection should be able to handle the different players.
+ 
+ ![img3]()
+ 
  ### Links and references
  
 https://en.wikipedia.org/wiki/Split_screen_(video_games)
