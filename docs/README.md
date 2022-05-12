@@ -10,10 +10,20 @@
  This resource allows more than one player to play the game at the same time on the same console. This was really
  usefull specially in the early 2010's and 2000's when multiplayer online wasn't fully exploited as it is today.
  
- 
+ ![image2](https://github.com/ottotolo/ResearchProjectSplitScreen/blob/main/docs/images/Blackout-Call-of-Duty-Black-Ops-4-Split-Screen.jpg)
  
  Nowadays however, even tho it is still added to many mainstream triple A games, it's very rarely used anymore, so
  I would say it is not a priority or even necessary to add this feature to your game.
  
- ### 
+ ### Possible applications
  
+ If you are still determined to add a split screen feature to your game because it is focused on co-operative gaming or it's
+ just convinient to add it to your game, a really interesting way to give this old feature a fresh touch, would be by implementing
+ a Dynamic SplitScreen.
+ 
+ #### Dynamic Splitcreen
+ 
+
+### Links and references
+
+https://www.reddit.com/r/Games/comments/kisulb/dynamic_split_screen_design/
