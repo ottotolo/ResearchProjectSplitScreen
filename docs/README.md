@@ -41,7 +41,7 @@
  allow all screen frame rates to sync. It will prevent bugs and it will prevent the device from having to load the game 
  multiple times.
  
- ![img2]()
+ ![img2](https://github.com/ottotolo/ResearchProjectSplitScreen/blob/main/docs/images/1captura.PNG)
  
  The input however doesn’t give that much trouble since any entity including the screen player gets updated in the render
  for loop. Meaning that simple input detection should be able to handle the different players.
