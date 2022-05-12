@@ -12,10 +12,3 @@
  
  ### Author:
  Otto Tolo, CITM game development student.
- 
- ### Relevant Links: (sources and references)
- 
- https://en.wikipedia.org/wiki/Split_screen_(video_games)
- 
- https://github.com/sebheron/Dynamic-Splitscreen
- 
