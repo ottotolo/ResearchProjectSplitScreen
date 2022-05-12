@@ -4,12 +4,16 @@
  Double or more splited screen render which can be used to show the player two or more scenarios at the same time,
  or to allow more than 1 player to play on the same device.
  
- ### Author:
- Otto Tolo, CITM game development student.
+ ### Market Study
  
- ### Relevant Links: (sources and references)
+ The splitscreen feature has been included in many video games since the start of the gaming industry at home. 
+ This resource allows more than one player to play the game at the same time on the same console. This was really
+ usefull specially in the early 2010's and 2000's when multiplayer online wasn't fully exploited as it is today.
  
- https://en.wikipedia.org/wiki/Split_screen_(video_games)
  
- https://github.com/sebheron/Dynamic-Splitscreen
+ 
+ Nowadays however, even tho it is still added to many mainstream triple A games, it's very rarely used anymore, so
+ I would say it is not a priority or even necessary to add this feature to your game.
+ 
+ ### 
  
