@@ -35,7 +35,7 @@
  First we need to create the screens needed, which will depend on the amount of players that want to participate. This 
  screens will have to be resized accordingly to  the amount of screens rendered.
  
- ![img1]()
+ ![img1](https://github.com/ottotolo/ResearchProjectSplitScreen/blob/main/docs/images/Captura.PNG)
  
  In order for a split screen to work effectively we need to render all camera views in the same for loop. This will 
  allow all screen frame rates to sync. It will prevent bugs and it will prevent the device from having to load the game 
